@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**lfmhc/lfmhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just go >> ![here](lfmhc.com) <<
 
-Here are some ideas to get you started:
+Here are some ideas:
 
 - 🔭 I’m currently working on secret projects.
 - 🌱 I’m currently learning the mastery of shapes.
