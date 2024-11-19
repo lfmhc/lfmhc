@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Just go >> ![here](lfmhc.com) <<
+Just go >> [here](https://lfmhc.com) <<
 
 Here are some ideas:
 
