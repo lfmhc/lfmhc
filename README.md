@@ -2,6 +2,8 @@
 
 Just go >> [here](https://lfmhc.com) <<
 
+![](https://github.com/lfmhc/lfmhc/blob/main/homer.gif)
+
 Here are some ideas:
 
 - 🔭 I’m currently working on secret projects.
